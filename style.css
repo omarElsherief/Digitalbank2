@@ -142,7 +142,7 @@ header button,
 }
 .card-container{
     width: 400px;
-    max-height: 500px;
+    height: max-content;
     overflow: hidden;
     border-radius: 10px 10px 0 0;
     background: #fff;
@@ -232,8 +232,8 @@ header button,
     }
 
     .card-container {
-
-        height: 450px;
+        min-height: 380px;
+        height: max-content;
         width: 260px;
     }
 
