@@ -1,1 +1,1 @@
-## [See the website](https://omarelsherief.github.io/digital-bank2/)
+## [See the website](https://omarelsherief.github.io/Digitalbank2/)
